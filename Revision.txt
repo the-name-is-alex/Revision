@@ -1,0 +1,20 @@
+the advantages of using the vitual machine is 
+1 easy to use
+2 efficiency
+On desktop we use windows and on servers we use
+linux for efficiency.
+between 2010-2014 dockers and containers were popular and came into use.
+Google introduced dockers , google is a search engine and the 
+algorithum used by google is Page Rank.
+Tor  is also another kind of browser which uses the onion routing .
+Name space is space alotted to a particular applications.
+Centralised -> 	Decentralised 
+in centralised , monolytics programming is used 
+In decentralised , microservices .
+
+for ex - 
+Cloud -> edge
+CI/CD
+CI - contineous integration 
+CD - Contineous Deployement (Peer to Peer)
+for ex- Block chain.
