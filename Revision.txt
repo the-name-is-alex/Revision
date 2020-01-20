@@ -18,3 +18,5 @@ CI/CD
 CI - contineous integration 
 CD - Contineous Deployement (Peer to Peer)
 for ex- Block chain.
+
+chutiyee
